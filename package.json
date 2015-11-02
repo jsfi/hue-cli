@@ -1,0 +1,20 @@
+{
+  "name": "hue-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "collect-cli-arguments": "github:jsfi/collect-cli-arguments",
+    "hue-discover": "github:jsfi/hue-discover",
+    "hue-promise": "github:jsfi/hue-promise",
+    "parse-cli-arguments": "^1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^1.8.0"
+  }
+}

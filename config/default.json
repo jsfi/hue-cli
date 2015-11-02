@@ -1,0 +1,16 @@
+{
+    "args": {
+        "options": {
+            "discover": { "flag": true, "alias": "d"},
+            "save": { "flag": true, "alias": "S"}
+        }
+    },
+
+    "discover": {},
+
+    "data": "~/.hue-cli",
+
+    "i18n": {
+
+    }
+}
