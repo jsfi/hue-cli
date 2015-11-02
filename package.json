@@ -12,7 +12,8 @@
     "collect-cli-arguments": "github:jsfi/collect-cli-arguments",
     "hue-discover": "github:jsfi/hue-discover",
     "hue-promise": "github:jsfi/hue-promise",
-    "parse-cli-arguments": "^1.0.1"
+    "parse-cli-arguments": "^1.0.1",
+    "untildify": "^2.1.0"
   },
   "devDependencies": {
     "eslint": "^1.8.0"
