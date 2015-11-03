@@ -1,8 +1,9 @@
 {
     "args": {
         "options": {
-            "discover": { "flag": true, "alias": "d"},
-            "save": { "flag": true, "alias": "S"}
+            "discover": { "flag": true, "alias": "d" },
+            "createUser": { "flag": true },
+            "save": { "flag": true, "alias": "S" }
         }
     },
 
