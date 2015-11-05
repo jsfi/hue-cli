@@ -3,7 +3,9 @@
         "options": {
             "discover": { "flag": true, "alias": "d" },
             "createUser": { "flag": true },
-            "save": { "flag": true, "alias": "S" }
+            "long": { "flag": true, "alias": "l" },
+            "save": { "flag": true, "alias": "S" },
+            "action": { "defaultOption": true, "multiple": true }
         }
     },
 
