@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "collect-cli-arguments": "github:jsfi/collect-cli-arguments",
+    "hue-color": "github:jsfi/hue-color",
     "hue-discover": "github:jsfi/hue-discover",
     "hue-promise": "github:jsfi/hue-promise",
     "lodash": "^3.10.1",
