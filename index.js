@@ -10,8 +10,9 @@
 'use strict';
 
 const config = require('./lib/loadConfig');
+const output = require('./lib/helper').output;
 
 require('./lib/controller.js')(
     require('parse-cli-arguments')(config.args),
     config
-);
+).then(output).catch(output);
