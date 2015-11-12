@@ -15,7 +15,8 @@
     "hue-promise": "github:jsfi/hue-promise",
     "lodash": "^3.10.1",
     "parse-cli-arguments": "^1.0.1",
-    "untildify": "^2.1.0"
+    "untildify": "^2.1.0",
+    "username": "^1.0.1"
   },
   "devDependencies": {
     "eslint": "^1.8.0",
