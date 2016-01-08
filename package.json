@@ -1,13 +1,33 @@
 {
   "name": "hue-cli",
-  "version": "1.0.0",
-  "description": "",
+  "description": "control hue bulbs with terminal",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jsfi/hue-cli#readme",
+  "author": {
+    "name": "Martin Sachse",
+    "email": "martin.sachse@gmail.com",
+    "url": "http://jsfi.io"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jsfi/hue-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jsfi/hue-cli/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "keywords": [
+    "hue",
+    "cli",
+    "commandline"
+  ],
   "dependencies": {
     "collect-cli-arguments": "github:jsfi/collect-cli-arguments",
     "hue-color": "github:jsfi/hue-color",
